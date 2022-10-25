@@ -13,8 +13,8 @@ const checkout=require('./Data/CheckOut.json')
 
 app.get('/checkout/:id',(req,res)=>{
     const id= req.params.id
-    const selectedCourse=checkout.fing(check=>check.id===id)
-    app.sen(selectedCourse)
+    const selectedCourse=checkout.find(check=>check.id===id)
+    res.send(selectedCourse)
 })
 
 app.get('/course',(req,res)=>{
