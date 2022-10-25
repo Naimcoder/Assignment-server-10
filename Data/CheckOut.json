@@ -1,0 +1,33 @@
+[
+
+{
+  "id": "01",
+  "name": "PHP",
+   "photo":"https://i.ibb.co/BPb12pR/php.png"
+},
+{
+  "id": "02",
+  "name": "Python",
+   "photo":"https://i.ibb.co/gwH2cxF/python.jpg"
+},
+{
+  "id": "03",
+  "name": "Laravel",
+   "photo":"https://i.ibb.co/sjr0gGY/Laravel.jpg"
+},
+{
+  "id": "04",
+  "name": "CSS",
+   "photo":"https://i.ibb.co/LZdBMVc/CSS.png"
+},
+{
+  "id": "05",
+  "name": "Javascript",
+   "photo":"https://i.ibb.co/rHGmFt4/javascript.png"
+},
+{
+  "id": "06",
+  "name": "Java",
+   "photo":"https://i.ibb.co/fkv805v/java.png"
+}
+]

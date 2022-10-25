@@ -1,6 +1,6 @@
 [
   {
-    "id": "0282e0e58a5c404fbd15261f11c2ab6a",
+    "id": "01",
     "name":"PHP",
     "title": "PHP: Hypertext Preprocessor",
     "author": {
@@ -11,7 +11,7 @@
     "details": "PHP code is usually processed on a web server by a PHP interpreter implemented as a module, a daemon or as a Common Gateway Interface (CGI) executable. On a web server, the result of the interpreted and executed PHP code which may be any type of data, such as generated HTML or binary image data  would form the whole or part of an HTTP response. Various web template systems, web content management systems, and web frameworks exist which can be employed to orchestrate or facilitate the generation of that response. Additionally, PHP can be used for many programming tasks outside the web context, such as standalone graphical applications and robotic drone control. PHP code can also be directly executed from the command line."
   },
   {
-    "id": "0282e0e58a5c404fbd15261f11c2ab6a",
+    "id": "02",
     "name":"Python",
     "title": "Python: Python is an interpreted, high-level and general-purpose programming language",
     "author": {
@@ -23,7 +23,7 @@
     "details": "Python is a high-level, general-purpose programming language. Its design philosophy emphasizes code readability with the use of significant indentation Python is dynamically-typed and garbage-collected. It supports multiple programming paradigms, including structured (particularly procedural), object-oriented and functional programming. It is often described as a 'batteries included' language due to its comprehensive standard library.Guido van Rossum began working on Python in the late 1980s as a successor to the ABC programming language and first released it in 1991 as Python 0.9.0. Python 2.0 was released in 2000 and introduced new features such as list comprehensions, cycle-detecting garbage collection, reference counting, and Unicode support"
   },
   {
-    "id": "0282e0e58a5c404fbd15261f11c2ab6a",
+    "id": "03",
     "name":"Laravel",
     "title": "Laravel: PHP web framework",
     "author": {
@@ -34,7 +34,7 @@
     "details": "Laravel is a free and open-source PHP web framework created by Taylor Otwell and intended for the development of web applications following the model view controller (MVC) architectural pattern and based on Symfony. Some of the features of Laravel are a modular packaging system with a dedicated dependency manager, different ways for accessing relational databases, utilities that aid in application deployment and maintenance, and its orientation toward syntactic sugar"
   },
   {
-    "id": "0282e0e58a5c404fbd15261f11c2ab6a",
+    "id": "04",
     "name":"CSS",
     "title": "CSS: Cascading Style Sheets",
     "author": {
@@ -45,7 +45,7 @@
     "details": "CSS is designed to enable the separation of presentation and content, including layout, colors, and fonts.[3] This separation can improve content accessibility; provide more flexibility and control in the specification of presentation characteristics; enable multiple web pages to share formatting by specifying the relevant CSS in a separate .css file, which reduces complexity and repetition in the structural content; and enable the .css file to be cached to improve the page load speed between the pages that share the file and its formatting."
   },
   {
-    "id": "0282e0e58a5c404fbd15261f11c2ab6a",
+    "id": "05",
     "name":"JavaScript",
     "title": "JavaScript: JavaScript is a scripting language",
     "author": {
@@ -56,7 +56,7 @@
     "details": "JavaScript is a programming language that is one of the core technologies of the World Wide Web, alongside HTML and CSS. As of 2022, 98% of websites use JavaScript on the client side for webpage behavior, often incorporating third-party libraries. All major web browsers have a dedicated JavaScript engine to execute the code on users' devices.JavaScript is a high-level, often just-in-time compiled language that conforms to the ECMAScript standard. It has dynamic typing, prototype-based object-orientation, and first-class functions. It is multi-paradigm, supporting event-driven, functional, and imperative programming styles. It has application programming interfaces (APIs) for working with text, dates, regular expressions, standard data structures, and the Document Object Model (DOM)"
   },
   {
-    "id": "0282e0e58a5c404fbd15261f11c2ab6a",
+    "id": "06",
     "name":"Java",
     "title": "Java: computer programming language",
     "author": {

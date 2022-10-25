@@ -9,9 +9,12 @@ app.use(cors())
 
 const courses= require('./Data/Course.json')
 const allCourse = require('./Data/Course_Caregory.json')
+const checkout=require('./Data/CheckOut.json')
 
-app.get('/',(req,res)=>{
-    app.sen('hello my news')
+app.get('/checkout/:id',(req,res)=>{
+    const id= req.params.id
+    const selectedCourse=checkout.fing(check=>check.id===id)
+    app.sen(selectedCourse)
 })
 
 app.get('/course',(req,res)=>{
